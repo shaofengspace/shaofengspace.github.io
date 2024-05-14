@@ -7,9 +7,9 @@ redirect_from:
   - /markdown.html
 ---
 
-## Locations of key files/directories
+## Links
 
-* Basic config options: _config.yml
+* <a href="http://www.math.ac.cn/people/fbh/">Baohua Fu （付保华）</a>
 * Top navigation bar config: _data/navigation.yml
 * Single pages: _pages/
 * Collections of pages are .md or .html files in:
