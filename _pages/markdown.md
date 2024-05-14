@@ -10,45 +10,13 @@ redirect_from:
 ## Links
 
 * <a href="http://www.math.ac.cn/people/fbh/">Baohua Fu （付保华）</a>
-* Top navigation bar config: _data/navigation.yml
-* Single pages: _pages/
-* Collections of pages are .md or .html files in:
-  * _publications/
-  * _portfolio/
-  * _posts/
-  * _teaching/
-  * _talks/
-* Footer: _includes/footer.html
-* Static files (like PDFs): /files/
-* Profile image (can set in _config.yml): images/profile.png
 
-## Tips and hints
-
-* Name a file ".md" to have it render in markdown, name it ".html" to render in HTML.
-* Go to the [commit list](https://github.com/academicpages/academicpages.github.io/commits/master) (on your repo) to find the last version Github built with Jekyll. 
-  * Green check: successful build
-  * Orange circle: building
-  * Red X: error
-  * No icon: not built
 
 ## Resources
  * [Liquid syntax guide](https://shopify.github.io/liquid/tags/control-flow/)
  * [MathJax Documentation](https://docs.mathjax.org/en/latest/)
 
-## MathJax 
 
-Support for MathJax Version 3.0 is included in the template:
-
-$$
-\displaylines{
-\nabla \cdot E= \frac{\rho}{\epsilon_0} \\\
-\nabla \cdot B=0 \\\
-\nabla \times E= -\partial_tB \\\
-\nabla \times B  = \mu_0 \left(J + \varepsilon_0 \partial_t E \right)
-}
-$$
-
-The default delimiters of `$$...$$` and `\\[...\\]` are supported for displayed mathematics, while `\\(...\\)` should be used for in-line mathematics (ex., \\(a^2 + b^2 = c^2\\))
 
 **Note** that since Academic Pages uses Markdown which cases some interference with MathJax and LaTeX for escaping characters and new lines, although [some workarounds exist](https://math.codidact.com/posts/278763/278772#answer-278772).
 
