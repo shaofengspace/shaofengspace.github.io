@@ -10,6 +10,7 @@ redirect_from:
 ## Links
 
 * [Arnaud Beauville](https://math.univ-cotedazur.fr/~beauvill/indexeng.html)
+* [Michel Brion](https://www-fourier.ujf-grenoble.fr/~mbrion/)
 * [Baohua Fu （付保华）](http://www.math.ac.cn/people/fbh/)
 * [Andreas Höring](https://math.univ-cotedazur.fr/~hoering/)
 * [Jie Liu （刘杰）](http://www.jliumath.com)
