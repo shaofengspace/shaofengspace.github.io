@@ -9,8 +9,8 @@ redirect_from:
 
 ## Links
 
-* [Baohua Fu （付保华）](http://www.math.ac.cn/people/fbh/)
 * [Arnaud Beauville](https://math.univ-cotedazur.fr/~beauvill/indexeng.html)
+* [Baohua Fu （付保华）](http://www.math.ac.cn/people/fbh/)
 * [Andreas Höring](https://math.univ-cotedazur.fr/~hoering/)
 * [Jie Liu （刘杰）](http://www.jliumath.com)
 * [Renjie Lyu （吕人杰）](https://renjielyu91.github.io)
