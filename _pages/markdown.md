@@ -10,7 +10,7 @@ redirect_from:
 ## Links
 
 * <a href="http://www.math.ac.cn/people/fbh/">Baohua Fu （付保华）</a>
-*[Baohua Fu （付保华)](http://www.math.ac.cn/people/fbh/)
+* [Baohua Fu （付保华)](http://www.math.ac.cn/people/fbh/)
 
 
 ## Resources
