@@ -7,7 +7,7 @@ redirect_from:
   - /markdown.html
 ---
 
-## Links
+## Mathematicians
 
 * [Arnaud Beauville](https://math.univ-cotedazur.fr/~beauvill/indexeng.html)
 * [Michel Brion](https://www-fourier.ujf-grenoble.fr/~mbrion/)
@@ -21,10 +21,8 @@ redirect_from:
 
 
 
-## Resources
- * [Liquid syntax guide](https://shopify.github.io/liquid/tags/control-flow/)
- * [MathJax Documentation](https://docs.mathjax.org/en/latest/)
-
+## Institutes
+ * [Center for Complex Geometry, Institute for Basic Science](https://ccg.ibs.re.kr)
 
 
 
