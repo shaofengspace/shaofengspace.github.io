@@ -3,6 +3,9 @@ layout: archive
 title: "Publications and preprints"
 permalink: /publications/
 author_profile: true
+redirect_from: 
+  - /md/
+  - /publication.html
 ---
 
 {% if site.author.googlescholar %}
