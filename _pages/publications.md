@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-* Andreas Höring, Jie Liu, and Feng Shao. Examples of Fano manifolds with non-pseudoeffective tangent bundle. <B>Journal of the London Mathematical Society</B>, 106:27–59, 2022.
+* Andreas Höring, Jie Liu, and Feng Shao. Examples of Fano manifolds with non-pseudoeffective tangent bundle. <I><B>Journal of the London Mathematical Society</B></I>, 106:27–59, 2022.
 * Feng Shao. On pseudoeffective thresholds and cohomology of twisted symmetric tensor fields on irreducible Hermitian symmetric spaces. To appear in Science China Mathematics, 2023.
 * Feng Shao and Guolei Zhong. Boundedness of finite morphisms onto Fano manifolds with large Fano index. Journal of Algebra, 639:678–707, 2024.
 * Feng Shao and Guolei Zhong. Bigness of tangent bundles and dynamical rigidity of Fano manifolds of Picard number 1 (with an appendix by Jie Liu). arXiv:2311.15559.
