@@ -21,7 +21,7 @@ repository               : "shaofengspace/shaofengspace.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "IMG_luffy.jpg"
   name             : "Feng Shao (邵锋)"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
