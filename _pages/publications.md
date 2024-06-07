@@ -12,7 +12,7 @@ author_profile: true
 * Feng Shao. On pseudoeffective thresholds and cohomology of twisted symmetric tensor fields on irreducible Hermitian symmetric spaces.  <I>Science China Mathematics</I>, 2024.
   <br>[doi:10.1007/s11425-022-2186-6](https://doi.org/10.1007/s11425-022-2186-6)&emsp;&emsp;[arXiv:2012.11315](https://arxiv.org/abs/2012.11315)
 * Andreas Höring, Jie Liu, and Feng Shao. Examples of Fano manifolds with non-pseudoeffective tangent bundle. <I>Journal of the London Mathematical Society</I>, 106:27–59, 2022.
-  <br>[doi: 10.1112/jlms.12567.](https://doi.org/10.1112/jlms.12567)&emsp;&emsp;[arXiv:2003.09476](https://arxiv.org/abs/2003.09476)
+  <br>[doi: 10.1112/jlms.12567](https://doi.org/10.1112/jlms.12567)&emsp;&emsp;[arXiv:2003.09476](https://arxiv.org/abs/2003.09476)
 
 
 
