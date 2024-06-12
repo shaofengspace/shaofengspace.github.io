@@ -6,9 +6,9 @@ author_profile: true
 ---
 
 ## My other personal pages
-* [My ResearchGate personal page](https://www.researchgate.net/profile/Feng-Shao-8)
-* [My arXiv personal page](https://arxiv.org/a/shao_f_1.html)
-* [My MathSciNet personal page](https://mathscinet.ams.org/mathscinet/author?authorId=1513584)
+* [ResearchGate](https://www.researchgate.net/profile/Feng-Shao-8)
+* [arXiv](https://arxiv.org/a/shao_f_1.html)
+* [MathSciNet](https://mathscinet.ams.org/mathscinet/author?authorId=1513584)
 
 ## Publications and preprints
 * Feng Shao and Guolei Zhong. Bigness of tangent bundles and dynamical rigidity of Fano manifolds of Picard number 1 (with an appendix by Jie Liu). arXiv:2311.15559.
