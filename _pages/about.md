@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 I am a postdoctor research fellow in Center for Complex Geometry, Institute for Basic Science. 
-<p> I received my Ph.d at Institute of Mathematics, Chinese Academic of Science under the supervision of <a href="http://www.math.ac.cn/people/fbh/">Baohua Fu</a>.</p>
+<p> I received my Ph.D at Institute of Mathematics, Chinese Academic of Science under the supervision of <a href="http://www.math.ac.cn/people/fbh/">Baohua Fu</a>.</p>
 
 <!--A data-driven personal website-->
 <!--======-->
