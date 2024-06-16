@@ -8,15 +8,13 @@ redirect_from:
 ---
 I am a postdoctor research fellow in Center for Complex Geometry, Institute for Basic Science. 
 
-%A data-driven personal website
-%======
+<!--A data-driven personal website-->
+<!--======-->
 
 
 
 
 
-
-
-%For more info
-%------
+<!--For more info-->
+<!---------->
 
