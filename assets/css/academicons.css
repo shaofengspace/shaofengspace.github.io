@@ -317,9 +317,9 @@
 .ai-orcid:before {
   content: "\e9d9";
 }
-.ai-zbmath:before {
-  content: "\e9d9";
-}
+#.ai-zbmath:before {
+  #content: "\e9d9";
+#}
 .ai-orcid-square:before {
   content: "\e9c3";
 }
