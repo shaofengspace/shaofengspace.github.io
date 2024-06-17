@@ -31,13 +31,13 @@ author:
   # email            : "none@example.org" 
 
   # Academic websites
-  arxiv            : "https://arxiv.org/a/shao_f_1.html"
-  mathscinet       : "https://mathscinet.ams.org/mathscinet/author?authorId=1513584"
+  arxiv            : "https://arxiv.org"
+  mathscinet       : "https://mathscinet.ams.org/mathscinet/publications-search"
   #googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   #impactstory      : # URL
   #orcid            : "http://orcid.org/yourorcidurl"
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : "https://www.researchgate.net/profile/Feng-Shao-8"
+  researchgate     : "https://www.researchgate.net"
 
   # Repositories and software development
  # bitbucket        : # Username - Update with your username on the site
