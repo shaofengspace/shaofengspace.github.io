@@ -62,6 +62,10 @@
       {% if author.zbmath %}
         <li><a href="{{ author.zbmath }}"><i class="ai ai-zbmath ai-fw icon-pad-right"></i>zbmath</a></li>
       {% endif %}
+       {% if author.researchsquare %}
+        <li><a href="{{ author.researchsquare }}"><i class="ai ai-research square ai-fw icon-pad-right"></i>Research Square</a></li>
+      {% endif %}
+      
 
       <!-- Font Awesome icons / Repositories and software development -->
       {% if author.bitbucket %}
