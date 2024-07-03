@@ -16,6 +16,7 @@ redirect_from:
 * [Baohua Fu （付保华）](http://www.math.ac.cn/people/fbh/)
 * [Andreas Höring](https://math.univ-cotedazur.fr/~hoering/)
 * [Hongsheng Hu （胡泓昇）](https://huhongsheng.github.io)
+* [Jun-Muk Hwang](https://mathscinet.ams.org/mathscinet/author?authorId=362260)
 * [Yongnam Lee](https://mathsci.kaist.ac.kr/~ynlee/index.php?page=home)
 * [Jie Liu （刘杰）](http://www.jliumath.com)
 * [Renjie Lyu （吕人杰）](https://renjielyu91.github.io)
