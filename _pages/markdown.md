@@ -20,6 +20,7 @@ redirect_from:
 * [Yongnam Lee](https://mathsci.kaist.ac.kr/~ynlee/index.php?page=home)
 * [Jie Liu （刘杰）](http://www.jliumath.com)
 * [Renjie Lyu （吕人杰）](https://renjielyu91.github.io)
+* [Sheng Meng (孟晟)](https://math.ecnu.edu.cn/~smeng/intro_c.html?language=1&id=257)
 * [Weizhe Zheng （郑维喆）](https://server.mcm.ac.cn/~zheng/)
 * [Guolei Zhong （仲国磊）](https://sites.google.com/view/guoleizhongshomepage/home)
 
