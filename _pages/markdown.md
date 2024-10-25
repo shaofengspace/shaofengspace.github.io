@@ -13,7 +13,7 @@ redirect_from:
 * [Michel Brion](https://www-fourier.ujf-grenoble.fr/~mbrion/)
 * [Yifei Chen (陈亦飞)](http://homepage.amss.ac.cn/research/homePage/4e9019d7b99747c1817e57bc91664f19/myHomePage.html)
 * [Sung Rak Choi](https://birational.yonsei.ac.kr)
-* [Dafage (大发哥)](https://hkumath.hku.hk/~qingchaoyu/)
+* [Dafage (大发哥)]([https://hkumath.hku.hk/~qingchaoyu/](https://ias.szu.edu.cn/info/1046/4323.htm))
 * [Baohua Fu （付保华）](http://www.math.ac.cn/people/fbh/)
 * [Andreas Höring](https://math.univ-cotedazur.fr/~hoering/)
 * [Hongsheng Hu （胡泓昇）](https://huhongsheng.github.io)
