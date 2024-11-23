@@ -21,6 +21,7 @@ redirect_from:
 * [Jae-Hyouk Lee](http://www.ewha.ac.kr/ewhaen/professor/info.do?mode=view&pId=j%2BDX0lxM%2Fp%2FUZ2Y3nYNvqw%3D%3D)
 * [Yongnam Lee](https://mathsci.kaist.ac.kr/~ynlee/index.php?page=home)
 * [Duo Li (李铎)](https://mathzh.sysu.edu.cn/zh-hans/teacher/116)
+* [Qifeng Li (李起峰)](https://faculty.sdu.edu.cn/qifengli_mathcag/zh_CN/index/1459465/list/index.htm)
 * [Jie Liu （刘杰）](http://www.jliumath.com)
 * [Renjie Lyu （吕人杰）](https://renjielyu91.github.io)
 * [Sheng Meng (孟晟)](https://math.ecnu.edu.cn/~smeng/intro_c.html?language=1&id=257)
