@@ -14,6 +14,7 @@ redirect_from:
 * [Yifei Chen (陈亦飞)](http://homepage.amss.ac.cn/research/homePage/4e9019d7b99747c1817e57bc91664f19/myHomePage.html)
 * [Sung Rak Choi](https://birational.yonsei.ac.kr)
 * [Dafage (大发哥)](https://ias.szu.edu.cn/info/1046/4323.htm)
+* [Cong Ding (丁聪)](https://math.szu.edu.cn/info/1098/3256.htm)
 * [Baohua Fu （付保华）](http://www.math.ac.cn/people/fbh/)
 * [Andreas Höring](https://math.univ-cotedazur.fr/~hoering/)
 * [Hongsheng Hu （胡泓昇）](https://huhongsheng.github.io)
