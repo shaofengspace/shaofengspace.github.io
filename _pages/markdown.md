@@ -28,6 +28,7 @@ redirect_from:
 * [Sheng Meng (孟晟)](https://math.ecnu.edu.cn/~smeng/intro_c.html?language=1&id=257)
 * [Weizhe Zheng （郑维喆）](https://server.mcm.ac.cn/~zheng/)
 * [Guolei Zhong （仲国磊）](https://sites.google.com/view/guoleizhongshomepage/home)
+* [Chuyu Zhou (周楚宇)](https://sites.google.com/view/chuyu-zhou/home)
 
 
 
