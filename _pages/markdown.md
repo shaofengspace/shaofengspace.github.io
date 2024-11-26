@@ -19,6 +19,7 @@ redirect_from:
 * [Andreas Höring](https://math.univ-cotedazur.fr/~hoering/)
 * [Hongsheng Hu （胡泓昇）](https://huhongsheng.github.io)
 * [Jun-Muk Hwang](https://mathscinet.ams.org/mathscinet/author?authorId=362260)
+* [Jeong-Seop Kim](https://sites.google.com/view/jeongseop/)
 * [Shin-young Kim](https://sites.google.com/view/shinyoungkim/home)
 * [Minseong Kwon](https://mskwonmath.github.io)
 * [Jae-Hyouk Lee](http://www.ewha.ac.kr/ewhaen/professor/info.do?mode=view&pId=j%2BDX0lxM%2Fp%2FUZ2Y3nYNvqw%3D%3D)
